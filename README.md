@@ -13,7 +13,7 @@
 
 ## 🚀 Principais Competências
 
-- **Linguagens de Programação:** Python, Java, JavaScript, PowerShell, HTML e CSS  
+- **Linguagens de Programação:** Python, Java, JavaScript, HTML e CSS  
 - **Ferramentas e Tecnologias:** Web Scraping (Selenium, Pandas, Scrapy)  
 - **Idiomas:** Inglês intermediário  
 

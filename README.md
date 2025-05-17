@@ -1,4 +1,4 @@
-# Olá, eu sou o Andrew Guedes Reis 👋
+# Olá, eu sou o Andrew Reis 👋
 ##Seja bem-vindo(a) ao meu perfil! Estou aberto a conexões e colaborações 🤝  
 ---
 

@@ -45,7 +45,7 @@ Atualmente, trabalhando com **Web Scraping** utilizando as seguintes ferramentas
 
 ## 📫 Como me encontrar
 
-<a href="https://www.linkedin.com/in/andrew-guedes-reis" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/andrew-guedes-reis-/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 

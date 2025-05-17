@@ -1,13 +1,13 @@
-# Olá, eu sou o Andrew Reis 👋
-##Seja bem-vindo(a) ao meu perfil! Estou aberto a conexões e colaborações 🤝  
+# Olá, eu sou o Andrew Reis 👋  
+## Seja bem-vindo(a) ao meu perfil! Estou aberto a conexões e colaborações 🤝  
+
 ---
 
 # Sobre mim
 
-## Sou estagiário em **Gestão de Dados** na Superintendência de Pesquisa, Dados e Operações no **Instituto Brasileiro de Economia (IBRE)** da **Fundação Getúlio Vargas (FGV)**.
+Sou estagiário em **Gestão de Dados** na Superintendência de Pesquisa, Dados e Operações no **Instituto Brasileiro de Economia (IBRE)** da **Fundação Getúlio Vargas (FGV)**.
 
-## Sou pós-graduando em **Ciência de Dados e Big Data Analytics**
-## Concluindo **Análise e Desenvolvimento de Sistemas**.
+Sou pós-graduando em **Ciência de Dados e Big Data Analytics** e estou concluindo **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
@@ -17,7 +17,6 @@
 - **Ferramentas e Tecnologias:** Web Scraping (Selenium, Pandas, Scrapy)  
 - **Idiomas:** Inglês intermediário  
 
----
 ---
 
 ## 🕸️ Web Scraping & Data Extraction
@@ -34,6 +33,8 @@ Atualmente, trabalhando com **Web Scraping** utilizando as seguintes ferramentas
   <img src="https://img.shields.io/badge/Scrapy-050505?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
 </a>
 
+---
+
 ## 🎯 Objetivos
 
 - Desenvolver soluções em **gestão e análise de dados** para apoiar a tomada de decisão estratégica  
@@ -44,14 +45,17 @@ Atualmente, trabalhando com **Web Scraping** utilizando as seguintes ferramentas
 
 ## 📫 Como me encontrar
 
-- <a href="https://www.linkedin.com/in/andrew-guedes-reis" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/andrew-guedes-reis" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+---
 
 <div>
   <a href="https://github.com/AndrewGReis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewGReis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGReis&layout=compact&langs_count=6&theme=tokyonight"/>
- 
- <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewGReis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/AndrewGReis">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGReis&layout=compact&langs_count=6&theme=tokyonight" />
+  </a>
+</div>

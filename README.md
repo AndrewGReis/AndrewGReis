@@ -6,7 +6,8 @@
 
 ## Atualmente sou estagiário em **Gestão de Dados** na Superintendência de Pesquisa, Dados e Operações no **Instituto Brasileiro de Economia (IBRE)** da **Fundação Getúlio Vargas (FGV)**.
 
-## Sou pós-graduando em **Ciência de Dados e Big Data Analytics** e curso **Análise e Desenvolvimento de Sistemas** pela **Universidade Estácio de Sá**.
+## Sou pós-graduando em **Ciência de Dados e Big Data Analytics**
+## Concluindo **Análise e Desenvolvimento de Sistemas**.
 
 ---
 

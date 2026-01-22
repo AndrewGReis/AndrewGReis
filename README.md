@@ -1,46 +1,35 @@
 # Olá, eu sou o Andrew Reis 👋  
-## Seja bem-vindo(a) ao meu perfil! Estou aberto a conexões e colaborações 🤝  
+## Seja bem-vindo(a) ao meu perfil!  
 
 ---
+📊 Analista de Dados Júnior
 
-# Sobre mim
+Com atuação em análise, automação e visualização de dados, apoiando estudos de mercado e a tomada de decisão estratégica.
 
-Sou estagiário em **Gestão de Dados** na Superintendência de Pesquisa, Dados e Operações no **Instituto Brasileiro de Economia (IBRE)** da **Fundação Getúlio Vargas (FGV)**.
+🎓 Pós-graduado (Lato Sensu) em Ciência de Dados e Big Data Analytics.
+🎓Graduado em Análise e Desenvolvimento de Sistemas.
+🎓Formado em Educação Física pela Universidade do Estado do Rio de Janeiro (UERJ).
 
-Sou pós-graduando em **Ciência de Dados e Big Data Analytics** e estou concluindo **Análise e Desenvolvimento de Sistemas**.
+👨‍💻 Apaixonado por dados, tecnologia e educação, com perfil analítico, curioso e orientado à resolução de problemas.
 
----
+💻 Ferramentas e tecnologias:
+Excel | Python | SQL | Power BI
 
-## 🚀 Principais Competências
+📊 Atualmente:
 
-- **Linguagens de Programação:** Python, Java, JavaScript, HTML e CSS  
-- **Ferramentas e Tecnologias:** Web Scraping (Selenium, Pandas, Scrapy)  
-- **Idiomas:** Inglês intermediário  
+Atuo na equipe de Estudos Setoriais e Metodologia, com foco na organização, automação, análise e visualização de grandes volumes de dados estruturados e não estruturados, contribuindo para a otimização de processos e geração de insights analíticos para apoio à tomada de decisão.
 
----
+🕸️ Experiência anterior:
 
-## 🕸️ Web Scraping & Data Extraction
+Atuação na equipe de Automatização e Coleta Web no IBRE/FGV, com desenvolvimento de soluções de Web Scraping e Extração de Dados, utilizando Python e bibliotecas como Selenium, Pandas e Playwright para automação, coleta e tratamento de dados.
 
-Atualmente, trabalhando com **Web Scraping** utilizando as seguintes ferramentas:
+📈 Objetivos profissionais:
 
-<a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</a>
-<a href="https://scrapy.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Scrapy-050505?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
-</a>
+Desenvolver soluções orientadas por dados para apoiar decisões estratégicas.
 
----
+Aprofundar conhecimentos em análise de dados, automação e ciência de dados.
 
-## 🎯 Objetivos
-
-- Desenvolver soluções em **gestão e análise de dados** para apoiar a tomada de decisão estratégica  
-- Ampliar conhecimentos em **ciência de dados, automação e desenvolvimento de sistemas**  
-- Contribuir com projetos que envolvam **dados, programação e inovação tecnológica**
-
+Contribuir com projetos que integrem tecnologia, inovação e impacto positivo, com foco em Análise de Dados, Business Intelligence e Ciência de Dados.
 ---
 
 ## 📫 Como me encontrar
